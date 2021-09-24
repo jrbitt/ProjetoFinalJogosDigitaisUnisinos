@@ -8,3 +8,4 @@ LaTeX do formato de artigo para o Projeto Final do curso de Jogos Digitais/UNISI
 
 ## Versões
 * 1.0.0 - Set. 24 2020: commit inicial
+* 1.0.1 - Set. 23 2021: bugs resolvidos e exemplo de citação longa (quote)
