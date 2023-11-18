@@ -11,3 +11,4 @@ LaTeX do formato de artigo para o Projeto Final do curso de Jogos Digitais/UNISI
 * 1.0.1 - Set. 23 2021: bugs resolvidos e exemplo de citação longa (quote)
 * 1.0.2 - Set. 30 2021: using Tweets in reference - [see](https://www.sunclipse.org/?p=1006)
 * 1.0.3 - Out. 05 2023: few corrections in section 1 and setup
+* 1.0.4 - Nov. 17 2023: add Apendice and Anexos
